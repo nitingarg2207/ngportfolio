@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ngportfolio/static/css/main.886da8d9.css",
+    "main.js": "/ngportfolio/static/js/main.f44b067b.js",
+    "static/js/787.0c683838.chunk.js": "/ngportfolio/static/js/787.0c683838.chunk.js",
+    "static/media/photo2.png": "/ngportfolio/static/media/photo2.914f03ddc1f11f2c4127.png",
+    "static/media/project2.jpg": "/ngportfolio/static/media/project2.72a2ccf117461dbbd880.jpg",
+    "static/media/project1.jpg": "/ngportfolio/static/media/project1.2bccd12f61ac11073c4f.jpg",
+    "static/media/nodejs.svg": "/ngportfolio/static/media/nodejs.b6b29e86e448294bb9751985263c4519.svg",
+    "static/media/tailwind.svg": "/ngportfolio/static/media/tailwind.024313c7613050d077567daa7cd556cb.svg",
+    "static/media/reactjs.svg": "/ngportfolio/static/media/reactjs.2960564a459abafd6d7dafa71b4ba157.svg",
+    "static/media/nextjs.svg": "/ngportfolio/static/media/nextjs.726188daea3fa3076155686038b18bd7.svg",
+    "static/media/javascript.svg": "/ngportfolio/static/media/javascript.fd46ca41839433d73577989d86eb2fe2.svg",
+    "static/media/bootstrap.svg": "/ngportfolio/static/media/bootstrap.c4f0a282577225ed29ca867983bf3dd9.svg",
+    "static/media/linkedin.svg": "/ngportfolio/static/media/linkedin.2350a9bf3c9b140985fa189546aea6e6.svg",
+    "static/media/css3.svg": "/ngportfolio/static/media/css3.ad53242fa7fe2734eeab399efc435d6f.svg",
+    "static/media/html5.svg": "/ngportfolio/static/media/html5.fe296947d8d83d0d645adbea3115b8a8.svg",
+    "static/media/leetcode.svg": "/ngportfolio/static/media/leetcode.a483bc2c57dd577d511041a05e717269.svg",
+    "static/media/hackerrank.svg": "/ngportfolio/static/media/hackerrank.8807f49f285cf66763dfcaf2ac5adc09.svg",
+    "index.html": "/ngportfolio/index.html",
+    "static/media/github.svg": "/ngportfolio/static/media/github.4f33f29afb92d1a50180b6bb751f55dd.svg",
+    "main.886da8d9.css.map": "/ngportfolio/static/css/main.886da8d9.css.map",
+    "main.f44b067b.js.map": "/ngportfolio/static/js/main.f44b067b.js.map",
+    "787.0c683838.chunk.js.map": "/ngportfolio/static/js/787.0c683838.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.886da8d9.css",
+    "static/js/main.f44b067b.js"
+  ]
+}
