@@ -9,15 +9,15 @@ import linkedin from "../photos/linkedin.svg"
 import hackerrank from "../photos/hackerrank.svg"
 import github from "../photos/github.svg"
 import leetcode from "../photos/leetcode.svg"
-import photo2 from "../photos/photo2.png"
+import photo2 from "../photos/profile.png"
 
 const Home = () => {
   return (
     <div>
-      <section className="text-gray-600 body-font">
+      <section className="text-gray-600 body-font" style={{marginTop:"70px"}}>
         <div className="container mx-auto flex pl-20 py-0 md:flex-row flex-col items-center">
-          <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-            <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
+          <div className="lg:flex-grow :w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center" style={{marginLeft:"50px"}}>
+            <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900" style={{marginTop:"20px"}}>
               Hi There,
               <br className="hidden lg:inline-block" />
               I'm Nitin Garg
@@ -84,7 +84,7 @@ const Home = () => {
             <img
               className="object-cover object-center rounded"
               alt="hero"
-              style={{ width: "80%" }}
+              style={{ width: "50%",borderRadius:"50%",border:"3px solid black", backgroundColor:"#f5f5f5" }}
               src={photo2}
             />
           </div>
