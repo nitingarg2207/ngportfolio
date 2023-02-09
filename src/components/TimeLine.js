@@ -1,7 +1,7 @@
 const TimeLine = () => {
   return (
     <ol className="relative border-l border-gray-200 dark:border-gray-700" style={{marginLeft:'10vw'}}>
-      <li className="mb-10 ml-6">
+      <li className="ml-6">
         <span className="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
           <svg
             aria-hidden="true"
@@ -17,17 +17,17 @@ const TimeLine = () => {
             />
           </svg>
         </span>
-        <h3 className="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-        Matriculation
+        <h3 className="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+          Bachelor of Engeneering
+          <span className="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">
+            Current
+          </span>
         </h3>
-        <p>
-            Sarvhitkari Vidya Mandir, Barnala
-        </p>
         <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-          2017 - 2018
+          2020 - 2024
         </time>
-        <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-            I have complete my Matriculation from sarvhitkari Vidya Mandir in my town
+        <p className="text-base font-normal text-gray-500 dark:text-gray-400">
+          I am currently pursuing my Bachelor in Engeering in the Field  of Computer Science from Chitkara University, Rajpura
         </p>
       </li>
       <li className="mb-10 ml-6">
@@ -56,7 +56,7 @@ const TimeLine = () => {
         I have complete my Matriculation from Dr. Raghubir Prakash SD senior secondary school in my town
         </p>
       </li>
-      <li className="ml-6">
+      <li className="mb-10 ml-6">
         <span className="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
           <svg
             aria-hidden="true"
@@ -72,17 +72,17 @@ const TimeLine = () => {
             />
           </svg>
         </span>
-        <h3 className="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-          Bachelor of Engeneering
-          <span className="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">
-            Current
-          </span>
+        <h3 className="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+        Matriculation
         </h3>
+        <p>
+            Sarvhitkari Vidya Mandir, Barnala
+        </p>
         <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
-          2020 - 2024
+          2017 - 2018
         </time>
-        <p className="text-base font-normal text-gray-500 dark:text-gray-400">
-          I am currently pursuing my Bachelor in Engeering in the Field  of Computer Science from Chitkara University, Rajpura
+        <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+            I have complete my Matriculation from sarvhitkari Vidya Mandir in my town
         </p>
       </li>
     </ol>
