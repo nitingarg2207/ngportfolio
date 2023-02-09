@@ -29,13 +29,11 @@ const Home = () => {
                   Hire Me 🫱🏻‍🫲🏻
                 </button>
               </a>
-              <Link>
-                <a href="https://drive.google.com/file/d/1PqW6jweZ7oGaWltak9xMVSYds1JIrsTR/view">
+                <a target={"_blank"} rel="noreferrer" href="https://drive.google.com/file/d/1meBZdpDkB8N_ELFHuTQui75E_Ad-OpAp/view?usp=sharing">
                   <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">
                     My Resume
                   </button>
                 </a>
-              </Link>
             </div>
             <div style={{ display: "flex", height: "100px", width: "300px" }}>
               <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
